@@ -1,3 +1,6 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cgjosephlee&show_icons=true)
+<div align="center" >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgjosephlee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=cgjosephlee&hide_title=true&hide_border=true" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgjosephlee&hide_title=true&hide_border=true&layout=compact" />
+
+</div>
